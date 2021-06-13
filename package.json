@@ -1,0 +1,20 @@
+{
+  "name": "job-listing-o-tron",
+  "version": "0.0.1",
+  "description": "A little appscript tool for collating jobs shared in the CAT job channel, so we can send them around in structured form",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --setupFiles dotenv/config"
+  },
+  "author": "Chris Adams",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "clasp": "^1.0.0",
+    "dotenv": "^10.0.0",
+    "gulp": "^4.0.2",
+    "gulp-cli": "^2.3.0"
+  },
+  "devDependencies": {
+    "jest": "^27.0.4"
+  }
+}
