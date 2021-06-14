@@ -1,4 +1,4 @@
-# Job Listing O Tron
+# Job-O-Tron
 
 A [Google Apps Script](https://developers.google.com/apps-script/overview)
 [script](https://developers.google.com/apps-script/guides/libraries) to take a google form submission, and post a slightly modified version into a named slack channel.
